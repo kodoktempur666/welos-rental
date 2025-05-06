@@ -1,0 +1,74 @@
+[
+    {
+      "merk": "Toyota",
+      "tipe": "Avanza 1.5 G",
+      "gambar": "/images/kendaraan/avanza.jpg",
+      "harga": 450000,
+      "deskripsi": "Mobil MPV irit dan nyaman untuk perjalanan keluarga."
+    },
+    {
+      "merk": "Honda",
+      "tipe": "Brio RS",
+      "gambar": "/images/kendaraan/brio.jpg",
+      "harga": 350000,
+      "deskripsi": "City car yang kompak dan lincah, cocok untuk perkotaan."
+    },
+    {
+      "merk": "Daihatsu",
+      "tipe": "Xenia R",
+      "gambar": "/images/kendaraan/xenia.jpg",
+      "harga": 400000,
+      "deskripsi": "Pilihan ekonomis dengan kapasitas penumpang yang luas."
+    },
+    {
+      "merk": "Mitsubishi",
+      "tipe": "Xpander Ultimate",
+      "gambar": "/images/kendaraan/xpander.jpg",
+      "harga": 480000,
+      "deskripsi": "Desain futuristik dan kabin yang lapang untuk kenyamanan."
+    },
+    {
+      "merk": "Suzuki",
+      "tipe": "Ertiga GL",
+      "gambar": "/images/kendaraan/ertiga.jpg",
+      "harga": 420000,
+      "deskripsi": "MPV keluarga dengan performa stabil dan hemat bahan bakar."
+    },
+    {
+      "merk": "Nissan",
+      "tipe": "Livina VE",
+      "gambar": "/images/kendaraan/livina.jpg",
+      "harga": 440000,
+      "deskripsi": "Kabin luas dan suspensi lembut untuk perjalanan jauh."
+    },
+    {
+      "merk": "Wuling",
+      "tipe": "Confero S",
+      "gambar": "/images/kendaraan/confero.jpg",
+      "harga": 390000,
+      "deskripsi": "Fitur lengkap dengan harga bersahabat untuk semua kalangan."
+    },
+    {
+      
+      "merk": "Kia",
+      "tipe": "Seltos EX",
+      "gambar": "/images/kendaraan/seltos.jpg",
+      "harga": 550000,
+      "deskripsi": "SUV tangguh dengan desain modern dan kenyamanan maksimal."
+    },
+    {
+      "merk": "Hyundai",
+      "tipe": "Stargazer Prime",
+      "gambar": "/images/kendaraan/stargazer.jpg",
+      "harga": 500000,
+      "deskripsi": "Teknologi canggih dan ruang kabin lega untuk kenyamanan keluarga."
+    },
+    {
+      "merk": "Toyota",
+      "tipe": "Innova Zenix",
+      "gambar": "/images/kendaraan/zenix.jpg",
+      "harga": 600000,
+      "deskripsi": "Pilihan premium dengan mesin hybrid dan kabin mewah."
+    }
+  ]
+  

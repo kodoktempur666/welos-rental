@@ -1,0 +1,34 @@
+{
+  "version": "7",
+  "dialect": "postgresql",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "7",
+      "when": 1744815085475,
+      "tag": "0000_yielding_moonstone",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "7",
+      "when": 1744820138855,
+      "tag": "0001_wakeful_ezekiel_stane",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "7",
+      "when": 1744826051416,
+      "tag": "0002_foamy_shotgun",
+      "breakpoints": true
+    },
+    {
+      "idx": 3,
+      "version": "7",
+      "when": 1745249220409,
+      "tag": "0003_superb_dexter_bennett",
+      "breakpoints": true
+    }
+  ]
+}
